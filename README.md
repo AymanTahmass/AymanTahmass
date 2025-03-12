@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-- Yeah welcome I guess
+- Yeah welcome
 - [My Page](https://aymantahmass.github.io/)
